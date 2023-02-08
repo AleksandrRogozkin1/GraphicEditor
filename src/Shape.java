@@ -18,5 +18,8 @@ interface Oval extends Shape{
 
 }
 interface Pap extends Shape{
-    
+
+}
+interface Adfs extends Shape{
+
 }
