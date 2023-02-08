@@ -1,3 +1,3 @@
 interface Shape {
-    void name();
+    void nameShapePrint();
 }
