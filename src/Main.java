@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         NamePrintService namePrintService = new NamePrintService();
+
         Oval ovalShape= new Oval();
         Circle circleShape= new Circle();
         Square squareShape= new Square();
